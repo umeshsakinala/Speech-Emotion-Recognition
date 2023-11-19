@@ -3,21 +3,18 @@
 ## Overview
 This GitHub repository is dedicated to the development of a Speech Emotion Recognition (SER) model using Python libraries Convolutional Neural Network, Keras, Pandas, Numpy. The goal of this project is to create an efficient and accurate model that can recognize emotions in spoken language, which can have a wide range of applications in fields such as human-computer interaction, customer service, and mental health.
 
-## Features to be added
+## Features
 <li>
-  Speech data preprocessing: Utilize various Python libraries to preprocess and clean speech data
+  Speech data preprocessing: Utilizes various Python libraries to preprocess and clean speech data
 </li>
 <li>
-  Deep Learning Model: Implement a deep learning model, Convolutional Neural Network (CNN) to extract meaningful features from the audio data.
+  Deep Learning Model: Implemented a deep learning model, Convolutional Neural Network (CNN) to extract meaningful features from the audio data.
 </li>
 <li>
-  Emotion Classification: Train the model to classify speech into different emotion categories, such as happiness, sadness, anger, fear, etc.
+  Emotion Classification: Trained the model to classify speech into different emotion categories, such as happiness, sadness, anger, fear, etc.
 </li>
 <li>
-  Evaluation Metrics: Compute and display evaluation metrics like accuracy, F1-score, and confusion matrix to assess the model's performance.
-</li>
-<li>
-  Real-time Emotion Recognition: Optionally, create a real-time emotion recognition system that can analyze emotions in live audio streams.
+  Evaluation Metrics: Computes and display the evaluation metrics like accuracy, F1-score, and confusion matrix to assess the model's performance.
 </li>
 
 ## Usage
